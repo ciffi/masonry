@@ -1,0 +1,19 @@
+{
+  "name": "masonry",
+  "version": "0.0.1",
+  "description": "masonry",
+  "author": "ciffi",
+  "main": "./masonry.js",
+  "keywords": [
+    "masonry"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ciffi/masonry.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "scripts": {
+  }
+}
